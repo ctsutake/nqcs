@@ -1,6 +1,7 @@
 -----------------------------------------------------------------------------
 
-        To be titled          
+     Restoration of JPEG Compressed Image 
+     with Narrow Quantization Constraint Set without Parameter Optimization         
  
 -----------------------------------------------------------------------------
 
