@@ -1,6 +1,8 @@
 % main.m (256x256 grayscale image is only supported)
 %
-% To be titled
+% Restoration of JPEG Compressed Image 
+% with Narrow Quantization Constraint Set 
+% without Parameter Optimization
 %
 % Written by  : Chihiro Tsutake
 % Affiliation : University of Fukui
