@@ -1,6 +1,6 @@
 % restore.m
 %
-% Restore a decoded image based on low-path filtering in [14]
+% Restore a decoded image based on low-path filtering in [12]
 %
 % Written by  : Chihiro Tsutake
 % Affiliation : University of Fukui
