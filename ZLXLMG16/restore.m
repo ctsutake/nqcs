@@ -1,6 +1,6 @@
 % restore.m
 %
-% Restore a decoded image based on singular value thresholding in [17]
+% Restore a decoded image based on singular value thresholding in [15]
 %
 % Written by  : Chihiro Tsutake
 % Affiliation : University of Fukui
