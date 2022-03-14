@@ -6,8 +6,8 @@
 -----------------------------------------------------------------------------
 
 Written by  : Chihiro Tsutake
-Affiliation : University of Fukui
-E-mail      : ctsutake@icloud.com
+Affiliation : Nagoya University
+E-mail      : ctsutake@nagoya-u.jp
 Created     : Feb. 2020
 
 -----------------------------------------------------------------------------
